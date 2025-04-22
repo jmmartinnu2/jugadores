@@ -46,7 +46,7 @@ players = {
     "Axel Rimoldi Ayas": {
         "photo": "./img/axel-rimoldi.png",
         "crest": "./img/santafe.png",
-        "video": "https://app.veo.co/matches/20250406-jn-vs-tiro-pichon-2c2dcbc3/",
+        "video": "https://youtu.be/AFFAabY7BhQ",
         "description": (
             "**Axel Rimoldi Ayas**\n"
             "- **Edad:** 2007 (2.º año juvenil)\n"
